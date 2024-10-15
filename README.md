@@ -33,7 +33,7 @@ This is a real-time cryptocurrency charting application that uses WebSocket to f
 
 ## Usage
 
-1. Select a Cryptocurrency: Use the dropdown menu to choose the cryptocurrency you want to analyze.
-2. Select a Time Interval: Choose the time interval for the candlestick chart from the provided options.
-3. View the Chart: The candlestick chart will update in real-time as new data comes in from the WebSocket.
+1. **Select a Cryptocurrency**: Use the dropdown menu to choose the cryptocurrency you want to analyze.
+2. **Select a Time Interval**: Choose the time interval for the candlestick chart from the provided options.
+3. **View the Chart**: The candlestick chart will update in real-time as new data comes in from the WebSocket.
 
