@@ -19,4 +19,13 @@ This is a simple Express WebSocket server that streams real-time candlestick dat
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/binance-websocket-server.git
+   git clone https://github.com/Forever12012/FintargetAssign.git
+
+2. **Navigate to the project directory**:
+   cd FintargetAssign
+
+3. **Install the dependencies**:
+   npm install
+
+4. **Start the server**:
+   node server.js
